@@ -1,0 +1,38 @@
+Shot name: Muir Wood
+Location: Red wood forest - San Francisco
+
+Date: 15/03/2016
+
+Time: 11h30
+
+Weather: Sunny
+
+
+Range:
+
+Standard capture: 
+15 shots by view
+14 EV (1/4000 - 4")
+
+
+Highlight & Sun capture: 
+11 shots by view
+10 EV (1/4000 - 1/4)
+Filter: 1000 (-10 stops)
+
+1/4 not use because it's the same exposure than 1/4000 without filter.
+
+
+Camera Settings:
+EV Step: 1
+F/8
+ISO 100
+
+Lux: 16000
+
+Luminance on 60 % white patch: 93,5
+Value not confirmed with absolute process.
+
+After Processing:
+White balanced Lux: 2.233
+Absolute multiplier: 7165.2485
