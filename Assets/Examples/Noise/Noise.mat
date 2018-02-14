@@ -6,7 +6,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Spiral
+  m_Name: Noise
   m_Shader: {fileID: 4800000, guid: af8a1066890ab4e42a55671be4469904, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
