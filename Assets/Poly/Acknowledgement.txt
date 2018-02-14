@@ -1,0 +1,4 @@
+The obj files in this directory are published by Google under a CC-BY license.
+See the following pages for further details.
+
+Monitor.obj, Commodore 64 Texture.png - https://poly.google.com/view/2D221SHzAER
