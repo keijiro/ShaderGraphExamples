@@ -3,7 +3,7 @@
   "dependencies": {
     "com.unity.render-pipelines.lightweight": "0.1.29",
     "com.unity.shadergraph": "0.1.17",
-    "com.unity.package-manager-ui": "1.7.2",
+    "com.unity.package-manager-ui": "1.7.3",
     "com.unity.ads": "exclude",
     "com.unity.analytics": "exclude",
     "com.unity.purchasing": "exclude",
