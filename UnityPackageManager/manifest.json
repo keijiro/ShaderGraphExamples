@@ -1,9 +1,9 @@
 {
   "registry": "https://staging-packages.unity.com",
   "dependencies": {
-    "com.unity.render-pipelines.lightweight": "0.1.31",
-    "com.unity.shadergraph": "0.1.18",
-    "com.unity.package-manager-ui": "1.8.0",
+    "com.unity.render-pipelines.lightweight": "1.0.0-beta",
+    "com.unity.shadergraph": "1.0.0-beta",
+    "com.unity.package-manager-ui": "1.8.1",
     "com.unity.ads": "exclude",
     "com.unity.analytics": "exclude",
     "com.unity.purchasing": "exclude",
