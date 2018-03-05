@@ -5,12 +5,11 @@ Desktop.ini
 # macOS
 .DS_Store
 
-# Vim
+# Code Editors
+.vscode
+*.sln
 *.swp
 
 # Unity
 /Library
 /Temp
-
-GeneratedShader.shader
-UberShader.shader
