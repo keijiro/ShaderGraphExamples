@@ -6,7 +6,9 @@ Desktop.ini
 .DS_Store
 
 # Code Editors
+.idea
 .vscode
+*.csproj
 *.sln
 *.swp
 
