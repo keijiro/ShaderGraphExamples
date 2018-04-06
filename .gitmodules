@@ -1,0 +1,4 @@
+[submodule "Packages"]
+	path = Packages
+	url = git@github.com:keijiro/ShaderGraph.git
+	branch = local-package
