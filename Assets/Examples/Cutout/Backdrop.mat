@@ -6,8 +6,8 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Monitor
-  m_Shader: {fileID: 4800000, guid: 46c72d5be8ae08b47a6f8777406ebb98, type: 3}
+  m_Name: Backdrop
+  m_Shader: {fileID: 4800000, guid: 321c1c92a42f78a418616933e1834afd, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -18,8 +18,12 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - Texture_2156B528:
-        m_Texture: {fileID: 2800000, guid: db40423d82896f64aab2111417130c99, type: 3}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_E1DA3794_Texture:
+        m_Texture: {fileID: 2800000, guid: 122b4d62d61fe4ad582629e021d9dce6, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats: []
