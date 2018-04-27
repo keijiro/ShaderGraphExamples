@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "com.unity.render-pipelines.lightweight": "1.1.2-preview"
+    "com.unity.render-pipelines.lightweight": "1.1.5-preview"
   }
 }
