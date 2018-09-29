@@ -4,8 +4,9 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: Cutout2
   m_Shader: {fileID: 4800000, guid: 0f8ccaefee7552d40a8e0cb93a4bd6ac, type: 3}
   m_ShaderKeywords: 
@@ -18,6 +19,10 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - Texture2D_113C35A9:
+        m_Texture: {fileID: 2800000, guid: e6e4df27078455b4cbf8d4f93ccd147d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - Texture_113C35A9:
         m_Texture: {fileID: 2800000, guid: aee9be8cffd4afb429e523c4634860f4, type: 3}
         m_Scale: {x: 1, y: 1}

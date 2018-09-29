@@ -4,8 +4,9 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: Flame
   m_Shader: {fileID: 4800000, guid: 1b5dc71e62ac76641947d29da7e40201, type: 3}
   m_ShaderKeywords: 
@@ -18,6 +19,14 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - Texture2D_1F6E9997:
+        m_Texture: {fileID: 2800000, guid: ef6b4a96fee2a6a4db44d37f088d40d9, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_2DF8C3BF:
+        m_Texture: {fileID: 2800000, guid: a3cae64e09a1bae4885d423f7f77c0ad, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - Texture_1F6E9997:
         m_Texture: {fileID: 2800000, guid: ef6b4a96fee2a6a4db44d37f088d40d9, type: 3}
         m_Scale: {x: 1, y: 1}

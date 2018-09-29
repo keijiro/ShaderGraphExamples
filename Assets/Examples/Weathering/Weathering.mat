@@ -4,8 +4,9 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: Weathering
   m_Shader: {fileID: 4800000, guid: fcebf4fc950eeb743a189cbb14ef11fc, type: 3}
   m_ShaderKeywords: _NORMALMAP _OCCLUSIONMAP
@@ -18,6 +19,18 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - Texture2D_3C8C2689:
+        m_Texture: {fileID: 2800000, guid: 66b65b33bc005a2438552ff5e3d8c845, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_7C31F6E5:
+        m_Texture: {fileID: 2800000, guid: 1ec74b70c1289ea4c84846f27dd37b6c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_8AC37C96:
+        m_Texture: {fileID: 2800000, guid: 470c40004b504b44d81b18dc675f9941, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - Texture_3C8C2689:
         m_Texture: {fileID: 2800000, guid: 66b65b33bc005a2438552ff5e3d8c845, type: 3}
         m_Scale: {x: 1, y: 1}

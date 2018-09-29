@@ -4,8 +4,9 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: TV
   m_Shader: {fileID: 4800000, guid: aa4217becbc1e424691005313c6be665, type: 3}
   m_ShaderKeywords: _EMISSION
@@ -18,6 +19,10 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - Texture2D_60305D7A:
+        m_Texture: {fileID: 2800000, guid: 8a4569df886e73e41a7c73caaa89ba5a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - Texture_60305D7A:
         m_Texture: {fileID: 2800000, guid: 8a4569df886e73e41a7c73caaa89ba5a, type: 3}
         m_Scale: {x: 1, y: 1}

@@ -8,4 +8,4 @@ This repository contains examples of use of [Unity Shader Graph].
 
 [Unity Shader Graph]: https://github.com/Unity-Technologies/ShaderGraph/wiki
 
-These examples require Unity 2018.1 or later versions.
+These examples require Unity 2018.3 or later.
